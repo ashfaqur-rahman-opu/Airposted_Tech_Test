@@ -6,7 +6,7 @@ android {
     buildToolsVersion "30.0.1"
 
     defaultConfig {
-        applicationId "com.itebd.myapplication"
+        applicationId "com.ashfaq.airpostedTest"
         minSdkVersion 19
         targetSdkVersion 30
         versionCode 1

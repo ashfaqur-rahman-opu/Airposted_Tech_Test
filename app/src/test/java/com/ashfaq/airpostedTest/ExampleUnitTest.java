@@ -1,4 +1,4 @@
-package com.itebd.myapplication;
+package com.ashfaq.airpostedTest;
 
 import org.junit.Test;
 
